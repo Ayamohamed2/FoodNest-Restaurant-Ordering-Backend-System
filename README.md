@@ -179,13 +179,12 @@ Handles request validation in a clean and scalable way.
 ### 1️⃣ System Overview  
 ![Screenshot 1](1.PNG)
 
-### 2️⃣ API Structure  
 ![Screenshot 2](2.PNG)
 
-### 3️⃣ Features Overview  
+### 3️⃣ Health Check Dashboard
 ![Screenshot 3](3.PNG)
 
-### 4️⃣ Dashboard / Runtime Flow  
+### 4️⃣ Hangfire Dashboard  
 ![Screenshot 4](4.PNG)
 
 ---
